@@ -1,0 +1,1 @@
+fsLightbox.props.type = "image";
