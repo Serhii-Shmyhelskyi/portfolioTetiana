@@ -123,6 +123,7 @@ a {
 .private__gallery {
   display: grid;
   width: 1000px;
+  height: auto;
   margin: 0 auto 25px;
   padding: 10px;
   grid-template-columns: repeat(4, 2fr);
@@ -158,6 +159,7 @@ a {
   }
   .private__gallery {
     width: 800px;
+    height: auto;
     margin: 0 auto 20px;
     padding: 5px;
     grid-template-columns: repeat(2, 4fr);
@@ -174,6 +176,7 @@ a {
   }
   .private__gallery {
     width: 700px;
+    height: auto;
     grid-template-columns: repeat(2, 4fr);
     grid-auto-rows: 325px;
   }
@@ -211,6 +214,7 @@ a {
 
   .private__gallery {
     width: 600px;
+    height: auto;
     margin: 0 auto 20px;
     padding: 5px;
     grid-template-columns: repeat(2, 4fr);
@@ -227,6 +231,7 @@ a {
   }
   .private__gallery {
     width: 550px;
+    height: auto;
     margin: 0 auto 20px;
     padding: 5px;
     grid-template-columns: repeat(2, 4fr);
@@ -264,6 +269,7 @@ a {
   }
   .private__gallery {
     display: grid;
+    height: auto;
     margin: 0 auto 25px;
     width: 360px;
     grid-template-columns: repeat(2, 4fr);
