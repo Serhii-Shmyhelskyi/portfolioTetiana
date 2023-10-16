@@ -69,6 +69,7 @@ a {
 
 .header__header {
   width: 240px;
+  margin-bottom: 10px;
   color: aliceblue;
 }
 
@@ -122,7 +123,7 @@ a {
 .private__gallery {
   display: grid;
   width: 1000px;
-  height: 530px;
+  /* height: 530px; */
   margin: 0 auto 25px;
   padding: 10px;
   grid-template-columns: repeat(4, 2fr);
