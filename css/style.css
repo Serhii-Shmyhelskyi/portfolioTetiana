@@ -264,8 +264,8 @@ a {
   }
   .private__gallery {
     display: grid;
-    width: 360px;
     margin: 0 auto 25px;
+    width: 360px;
     grid-template-columns: repeat(2, 4fr);
     grid-auto-rows: 180px;
   }
