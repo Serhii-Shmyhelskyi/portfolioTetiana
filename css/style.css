@@ -141,6 +141,7 @@ a {
 
 .footer {
   background-color: rgb(21, 37, 67);
+  cursor: pointer;
 }
 
 .footer__text {
